@@ -1,0 +1,18 @@
+
+.yellow, .grey
+{
+	margin: 10px;
+	padding: 10px;
+	display: inline;/*para que queden pegados arriba se le borra el block*/
+}
+
+.yellow
+{
+	background-color: yellow;
+}
+
+.grey
+{
+	background-color: gray;
+	color: white;
+}
